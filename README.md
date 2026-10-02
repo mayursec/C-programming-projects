@@ -6,7 +6,7 @@ Every project here is small, focused, and meant to lock in one concept at a time
 ## Projects
 
 | # | Projects | Concepts
-|---|---------|----------|--------|
+
 | 1 | [Even Odd Checker v1] | `scanf`, `printf`, `if-else`, `%` operator |....{Final version coming soon}
 | 2 | Coming soon | | 🔜 |
 
