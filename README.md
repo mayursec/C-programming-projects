@@ -5,15 +5,15 @@ Every project here is small, focused, and meant to lock in one concept at a time
 
 ## Projects
 
-| # | Projects | Concepts
+| # | Projects | Concepts used
 
 | 1 | [Even Odd Checker v1] | `scanf`, `printf`, `if-else`, `%` operator |....{Final version coming soon}
 
 ## Repo Structure
 ```
 c-programming-projects/
-├── even-odd-checker/
-│   └── even_odd.c
+├── Even_Odd_Checkerv1.c
+│   
 └── README.md
 ```
 
@@ -26,7 +26,7 @@ gcc filename.c -o output
 
 ## Goals
 - Build a strong foundation in C (pointers, arrays, strings, file handling)
-- Add a new project regularly and improve old ones (v2, v3...)
+- Add a new project regularly 
 - Eventually move toward systems and security-focused programs
 
 ## Author
