@@ -8,7 +8,9 @@ A collection of mini projects and practice programs I'm building while learning 
 |---|---------|---------------|
 | 1 | [Even Odd Checker](even_odd_checker.c) | `scanf`, `printf`, `if-else`, `%` operator |
 | 2 | [Voting Age Verifier](voting_age_verifier.c) | `scanf`, `printf`, `if-else`, relational operators |
-| 3 | [Calculator (if-else)](calculator_ifelse.c) | `do-while`, `if-else`, arithmetic operators, menu-driven input, division-by-zero check |
+| 3 | [Calculator (if-else)](calculator_ifelse.c) | `do-while`, `if-else`, arithmetic operators, menu-driven input, division-by-zero 
+check |
+| 4 | [Calculator (switch)](calculator_switch.c) | `do-while`, `switch-case`, arithmetic operators, menu-driven input |
 
 ## Repo Structure
 
@@ -17,6 +19,7 @@ c-programming-projects/
 ├── even_odd_checker.c
 ├── voting_age_verifier.c
 ├── calculator_ifelse.c
+├── calculator_switch.c
 └── README.md
 ```
 
