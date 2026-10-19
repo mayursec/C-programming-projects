@@ -8,12 +8,13 @@ Every project here is small, focused, and meant to lock in one concept at a time
 | # | Projects | Concepts used
 
 | 1 | [Even Odd Checker] | `scanf`, `printf`, `if-else`, `%` operator |
+| 2 | [Voting age Verifier] | `scanf`, `printf`, `if-else`, `%` operator |
 
 ## Repo Structure
 ```
 c-programming-projects/
 ├── Even_Odd_Checker.c
-│   
+│── Voting age Verifier   
 └── README.md
 ```
 
