@@ -7,12 +7,12 @@ Every project here is small, focused, and meant to lock in one concept at a time
 
 | # | Projects | Concepts used
 
-| 1 | [Even Odd Checker v1] | `scanf`, `printf`, `if-else`, `%` operator |....{Final version coming soon}
+| 1 | [Even Odd Checker] | `scanf`, `printf`, `if-else`, `%` operator |
 
 ## Repo Structure
 ```
 c-programming-projects/
-├── Even_Odd_Checkerv1.c
+├── Even_Odd_Checker.c
 │   
 └── README.md
 ```
