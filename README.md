@@ -11,6 +11,7 @@ A collection of mini projects and practice programs I'm building while learning 
 | 3 | [Calculator (if-else)](calculator_ifelse.c) | `do-while`, `if-else`, arithmetic operators, menu-driven input, division-by-zero check |
 | 4 | [Calculator (switch)](calculator_switch.c) | `do-while`, `switch-case`, arithmetic operators, menu-driven input |
 | 5 | [Marks Grade Calculator](grade_calculator.c) | `scanf`, `printf`, `if-else` ladder, `&&` / `||`, input validation |
+| 6 | [Star Patterns](star_patterns.c) | nested loops, `for` loop, pattern printing (right triangle, inverted triangle, pyramid) |
 
 ## Repo Structure
 
@@ -21,6 +22,7 @@ c-programming-projects/
 ├── calculator_ifelse.c
 ├── calculator_switch.c
 ├── grade_calculator.c
+├── star_patterns.c
 └── README.md
 ```
 
